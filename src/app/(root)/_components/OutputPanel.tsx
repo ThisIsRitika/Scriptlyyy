@@ -1,3 +1,4 @@
+//src\app\(root)\_components\OutputPanel.tsx
 "use client";
 
 import React from 'react';

@@ -1,3 +1,4 @@
+//src\app\(root)\_components\Header.tsx
 import { currentUser } from '@clerk/nextjs/server'
 import { ConvexHttpClient } from 'convex/browser';
 import { api } from '../../../../convex/_generated/api';

@@ -1,3 +1,4 @@
+//src\components\Footer.tsx
 import { Blocks } from "lucide-react";
 import Link from "next/link";
 

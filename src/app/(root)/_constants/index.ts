@@ -1,3 +1,4 @@
+//src\app\(root)\_constants\index.ts
 import { Monaco } from "@monaco-editor/react";
 import { Theme } from "../../../types";
 

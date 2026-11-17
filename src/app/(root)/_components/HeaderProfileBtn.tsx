@@ -1,3 +1,4 @@
+//src\app\(root)\_components\HeaderProfileBtn.tsx
 "use client";
 import LoginButton from "@/components/LoginButton";
 import { SignedOut, UserButton } from "@clerk/nextjs";

@@ -1,3 +1,4 @@
+//convex/_generated/api.d.ts
 /* eslint-disable */
 /**
  * Generated `api` utility.

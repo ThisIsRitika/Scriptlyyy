@@ -1,3 +1,4 @@
+//convex/_generated/dataModel.d.ts
 /* eslint-disable */
 /**
  * Generated data model types.

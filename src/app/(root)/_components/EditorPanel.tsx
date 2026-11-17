@@ -1,3 +1,4 @@
+//src/app/(root)/components/EditorPanel.tsx
 "use client";
 
 import React from 'react'

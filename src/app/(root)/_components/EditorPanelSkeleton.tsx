@@ -1,3 +1,4 @@
+//src\app\(root)\_components\EditorPanelSkeleton.tsx
 import { Terminal } from "lucide-react";
 
 export function EditorPanelSkeleton() {

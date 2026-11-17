@@ -1,3 +1,4 @@
+//src\app\(root)\_components\ThemeSelector.tsx
 "use client";
 
 import { useCodeEditorStore } from '@/store/useCodeEditorStore';

@@ -1,3 +1,4 @@
+//convex/_generated/server.js
 /* eslint-disable */
 /**
  * Generated utilities for implementing server-side Convex query and mutation functions.

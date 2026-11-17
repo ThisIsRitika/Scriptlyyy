@@ -1,3 +1,4 @@
+//src\app\(root)\_components\RunningCodeSkeleton.tsx
 const RunningCodeSkeleton = () => (
     <div className="space-y-4 animate-pulse">
       <div className="space-y-2">
